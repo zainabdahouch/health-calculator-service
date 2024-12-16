@@ -1,0 +1,5 @@
+link to github repo:
+https://github.com/zainabdahouch/health-calculator-service
+
+link to website:
+https://health-calculator-webapp-bqbaezecgmftcuad.francecentral-01.azurewebsites.net/
