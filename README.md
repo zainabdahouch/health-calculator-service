@@ -88,7 +88,7 @@ Azure account (for deployment)
 
 1. **Clone the repository**
 ```
-git clone https://github.com/your-repo/health-calculator.git
+git clone https://github.com/zainabdahouch/health-calculator-service
 
 cd health-calculator
 ```
